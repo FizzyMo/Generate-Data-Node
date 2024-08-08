@@ -17,6 +17,8 @@ This repository contains scripts and instructions for generating a large dataset
   - [Environment Variables](#environment-variables)
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
+- [Author](#author)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -137,7 +139,8 @@ Before you begin, ensure you have the following installed:
   - News API Key (You can get one from [News API](https://newsapi.org/)
 
 ## Setup
-### **Clone the Repository**
+
+### **Cloning the Repository**
 1. First, clone this repository to your local machine:
 `` git clone https://github.com/yourusername/large-dataset-generation.git ``
 `` cd large-dataset-generation ``
@@ -168,3 +171,9 @@ large-dataset-generation
             
 
 ```
+
+## Author
+**Carisa Saenz-Videtto**
+
+## Contact
+carisasaenz@gmail.com
