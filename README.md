@@ -1,3 +1,6 @@
+> [!NOTE]
+> This README is currently being updated. Some sections may be incomplete or undergoing revisions. Thank you for your patience!
+
 # Large Dataset Generation
 This repository contains scripts and instructions for generating a large dataset from a News API using Node.js. This guide will walk you through the process, from setting up your environment to running the scripts and exporting the data.
 
